@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #dbd6d0;
 }
 
 *, *::before, *::after {
