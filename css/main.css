@@ -15,7 +15,20 @@ header {
 
 h1 {
   text-align: center;
+  color: #fff;
 }
+
+.planet-list li {
+  background-color: #7a3436;
+  list-style-type: none;
+  display: inline-block;
+  padding: 1em;
+  border-radius: 5px;
+  color: #fff;
+}
+
+
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
