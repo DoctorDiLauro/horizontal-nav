@@ -3,6 +3,16 @@ html {
   background-color: #dbd6d0;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #79766f;
+  border: 3px solid #5b5851;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
