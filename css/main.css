@@ -13,6 +13,9 @@ header {
   border: 3px solid #5b5851;
 }
 
+h1 {
+  text-align: center;
+}
 *, *::before, *::after {
   box-sizing: inherit;
 }
